@@ -1,0 +1,14 @@
+stats
+list cs251
+e cs251 fzizza
+l cs211
+i cs211 10
+i cs251 4
+e cs211 mzizza
+e cs211 fzizza
+list cs211
+e cs251 fzizza
+w cs251 mzizza 20
+list cs251
+output output09.txt
+quit
